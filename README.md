@@ -43,4 +43,4 @@ Para la construcción de este archivo `.pbix` se realizaron los siguientes pasos
 ---
 
 ## ✒️ Autor
-* **Tu Nombre** - [LinkedIn](https://linkedin.com/in/tu-usuario)
+* **Santiago Pérez** 
